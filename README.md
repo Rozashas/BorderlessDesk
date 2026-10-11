@@ -1,4 +1,7 @@
 # BorderlessDesk
+[![Windows 실행 파일 다운로드](https://img.shields.io/badge/Windows-다운로드-2878FF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rozashas/BorderlessDesk/raw/refs/heads/main/App/BorderlessDesk.exe)
+
+버튼을 누르면 설치 없이 사용할 수 있는 Windows x64 실행 파일을 다운로드합니다. 실행 시 관리자 권한 승인이 필요합니다.
 내가 쓰려고 만든 전체창모드 강제하는 프로그램
 
 <>Code -> Download Zip 후 압축을 풀어 App/BorderlessDesk.exe를 실행하면 됩니다.
@@ -30,4 +33,5 @@
 
 임의적인 재빌드 및 재배포는 허용하지 않으며 해당 프로그램은 상업적이용의 목적이 아닙니다.
 누구나 어디서든 무료로 사용 가능합니다.
+
 
