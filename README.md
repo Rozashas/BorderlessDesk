@@ -1,7 +1,7 @@
 # BorderlessDesk
 내가 쓰려고 만든 전체창모드 강제하는 프로그램
 
-
+<>Code -> Download Zip 후 압축을 풀어 App/BorderlessDesk.exe를 실행하면 됩니다.
 
 실행: App\BorderlessDesk.exe
 설치 및 별도 .NET 런타임 설치 없이 실행 가능한 Windows x64 프로그램.
